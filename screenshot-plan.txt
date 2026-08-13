@@ -1,0 +1,9 @@
+Create at least 4 clean 16:9 or phone screenshots from the final production build:
+1. Chats home — India Talk branding
+2. One-to-one conversation
+3. Group chat + media sharing
+4. Voice/video call screen
+5. Privacy & settings
+6. Profile
+
+Do not use mock features in store screenshots unless they are actually available in the submitted build.

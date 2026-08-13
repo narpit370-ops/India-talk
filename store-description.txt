@@ -1,0 +1,17 @@
+India Talk — a modern messaging platform built for connecting people.
+
+Chat one-to-one, create groups, share media, receive notifications and stay connected through voice and video calling.
+
+Key features:
+• Private conversations
+• Group chats
+• Photo, video and file sharing
+• Voice and video calls
+• Push notifications
+• Profile and privacy controls
+• Block and report tools
+• India-inspired tricolor design
+
+Founder: Arpit Nayak
+
+Important: features shown in the store listing must match the production build and the privacy/data-safety disclosures.
